@@ -2,11 +2,12 @@
 
 ## Details 
 
-FiveThirtyEight has compiled a tracker to measure which Democratic candidates are receiving the most support from prominent members of their party. This market refers to the total score that Joe Biden will have on April 15th, 2019 at 11:59PM PST. The data feed can be found at https://projects.fivethirtyeight.com/2020-endorsements/democratic-primary. 
+FiveThirtyEight has compiled a tracker to measure which Democratic candidates are receiving the most support from prominent members of their party. This market refers to the total score that Joe Biden will have on **April 15th, 2019 at 11:59PM PST.** The data feed can be found at https://projects.fivethirtyeight.com/2020-endorsements/democratic-primary. 
 
-Market Type: Scalar
-Bound – Low: 0
-Bound – High: 150
+|   Market Type:  |   Scalar  |
+| ------------- |:-------------:| 
+|   Bound – Low:   |  0   |   
+|   Bound – High   |   150   | 
 
 **Resolution Source: https://projects.fivethirtyeight.com/2020-endorsements/democratic-primary**   
 
