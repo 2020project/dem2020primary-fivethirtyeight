@@ -21,7 +21,7 @@ In the event that the 2020 endorsement tracker or the FiveThirtyEight.com websit
 
 ----------
 
-# History
+## History
 
 | Date of Update        |    Time    | Biden Points           | Total Candidate Points  |
 | ------------- |:-------------:| :-------------:| :-----:|
