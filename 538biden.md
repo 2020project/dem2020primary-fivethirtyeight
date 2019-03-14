@@ -11,8 +11,8 @@ FiveThirtyEight has compiled a tracker to measure which Democratic candidates ar
 
 **Resolution Source: https://projects.fivethirtyeight.com/2020-endorsements/democratic-primary**   
 
-**Resolution Details:** The final point total will be listed on the [FiveThirtyEight website] (https://projects.fivethirtyeight.com/2020-endorsements/democratic-primary) and locked in as of 11:59PM PST on April 15, 2019. 
-As updates to the tracker on the FiveThirtyEight.com do not occur on a pre-scheduled basis, the market will consider the numbers set forth in the last update that occurs before 11:59PM PST as the final point total. In a link to come, the designated reporter will screenshot the website and download the most up-to-date CSV file to provide backup should the reporting come under dispute. 
+**Resolution Details:** The final point total will be listed on the [FiveThirtyEight website](https://projects.fivethirtyeight.com/2020-endorsements/democratic-primary) and locked in as of 11:59PM PST on April 15, 2019. 
+As updates to the tracker on the FiveThirtyEight.com do not occur on a pre-scheduled basis, the market will consider the numbers set forth in the last update that occurs before 11:59PM PST as the final point total. In this [dedicated website](https://github.com/2020project/dem2020primary/blob/master/538biden), the designated reporter will screenshot the FiveThityEight website and download the most up-to-date CSV file to provide backup should the reporting come under dispute. 
 
 **Details on the FiveThirtyEight 2020 Endorsement Tracker’s methodology can be found here:**  **https://fivethirtyeight.com/methodology/how-our-presidential-endorsement-tracker-works/**  
 
