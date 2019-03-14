@@ -6,7 +6,7 @@ FiveThirtyEight has compiled a tracker to measure which Democratic candidates ar
 
 Market Type: Scalar
 Bound – Low: 0
-Bound – High: 100
+Bound – High: 150
 
 **Resolution Source: https://projects.fivethirtyeight.com/2020-endorsements/democratic-primary**   
 
@@ -14,9 +14,20 @@ Resolution Details: The final point total will be listed on the FiveThirtyEight 
 
 **Details on the FiveThirtyEight 2020 Endorsement Tracker’s methodology can be found here:**  **https://fivethirtyeight.com/methodology/how-our-presidential-endorsement-tracker-works/**  
 
-Should the tracker or the website cease to exist in the time leading up to the expiration date, disputes could be resolved by following the above linked methodology. Further details can be found at https://github.com/2020project/dem2020primary/blob/master/538biden 
+In the event that the 2020 endorsement tracker or the FiveThirtyEight.com website cease to exist in the time leading up to the expiration date, disputes have the potential to be resolved by following the above linked methodology. Further details can be found at https://github.com/2020project/dem2020primary/blob/master/538biden 
 
 
 ##  Links
 * https://projects.fivethirtyeight.com/2020-endorsements/democratic-primary 
 * https://fivethirtyeight.com/methodology/how-our-presidential-endorsement-tracker-works/ 
+
+
+----------
+
+# History
+
+| Date        | Points           | Total Candidate Points  |
+| ------------- |:-------------:| :-----:|
+| March 13, 2019      | 18 | 236 |
+
+
