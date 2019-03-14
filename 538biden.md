@@ -26,7 +26,7 @@ In the event that the 2020 endorsement tracker or the FiveThirtyEight.com websit
 
 # History
 
-| Date        | Points           | Total Candidate Points  |
+| Date        | Biden Points           | Total Candidate Points  |
 | ------------- |:-------------:| :-----:|
 | March 13, 2019      | 18 | 236 |
 
