@@ -19,17 +19,17 @@ As updates to the tracker on the FiveThirtyEight.com do not occur on a pre-sched
 In the event that the 2020 endorsement tracker or the FiveThirtyEight.com website cease to exist in the time leading up to the expiration date, disputes have the potential to be resolved by following the above linked methodology. Further details can be found at https://2020project.github.io/dem2020primary/
 
 
-##  Links
-* https://projects.fivethirtyeight.com/2020-endorsements/democratic-primary 
-* https://fivethirtyeight.com/methodology/how-our-presidential-endorsement-tracker-works/ 
-
-
 ----------
 
 # History
 
-| Date        | Biden Points           | Total Candidate Points  |
-| ------------- |:-------------:| :-----:|
-| March 13, 2019      | 18 | 236 |
+| Date of Update        |    Time    | Biden Points           | Total Candidate Points  |
+| ------------- |:-------------:| :-------------:| :-----:|
+| March 11, 2019      |  4:28 PM    | 18 | 236 |
 
+----------
+
+##  Links
+* https://projects.fivethirtyeight.com/2020-endorsements/democratic-primary 
+* https://fivethirtyeight.com/methodology/how-our-presidential-endorsement-tracker-works/ 
 
