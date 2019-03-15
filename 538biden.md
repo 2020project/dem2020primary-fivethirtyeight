@@ -1,5 +1,7 @@
 # How many points will Joe Biden have in the 2020 Endorsement Primary? 
 
+_This market is currently in draft form. Feedback and comments would be greatly appreciated._
+
 ## Details 
 
 FiveThirtyEight has compiled a tracker to measure which Democratic candidates are receiving the most support from prominent members of their party. This market refers to the total score that Joe Biden will have on **April 15th, 2019 at 11:30PM PST.** The data feed can be found at https://projects.fivethirtyeight.com/2020-endorsements/democratic-primary. 
@@ -26,10 +28,13 @@ In the event that the 2020 endorsement tracker or the FiveThirtyEight.com websit
 | Date of Update        |    Time    | Biden Points           | Total Candidate Points  |
 | ------------- |:-------------:| :-------------:| :-----:|
 | March 11, 2019      |  4:28 PM    | 18 | 236 |
+| March 14, 2019      |  3:32 PM    | 18 | 248 |
+
 
 ----------
 
 ##  Links
 * https://projects.fivethirtyeight.com/2020-endorsements/democratic-primary 
 * https://fivethirtyeight.com/methodology/how-our-presidential-endorsement-tracker-works/ 
+* Link to download most up-to-date CSV file: https://projects.fivethirtyeight.com/endorsements-2020-data/endorsements-2020.csv
 
