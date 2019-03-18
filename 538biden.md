@@ -29,6 +29,7 @@ In the event that the 2020 endorsement tracker or the FiveThirtyEight.com websit
 | ------------- |:-------------:| :-------------:| :-----:|
 | March 11, 2019      |  4:28 PM    | 18 | 236 |
 | March 14, 2019      |  3:32 PM    | 18 | 248 |
+| March 17, 2019      |  5:45 PM    | 18 | 251 |
 
 
 ----------
