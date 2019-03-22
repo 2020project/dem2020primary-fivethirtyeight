@@ -1,6 +1,6 @@
 # Prediction Markets for the 2020 Democratic Primary for President of the United States
 
-## Democratic Primary Endorsemet Markets (FiveThirtyEight Tracker) 
+## Democratic Primary Endorsement Markets (FiveThirtyEight Tracker) 
 ### [Overview & Rules](https://2020project.github.io/dem2020primary/538rules) 
 ### [Market Template](https://2020project.github.io/dem2020primary/538template) 
 
