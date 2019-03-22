@@ -1,4 +1,4 @@
-# FiveThirtyEight Presidential Endorsement Tracker | Rules & Overview
+# FiveThirtyEight Presidential Endorsement Tracker | Overview & Rules
 
 
 ## Why we created these markets
