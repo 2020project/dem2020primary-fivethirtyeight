@@ -5,7 +5,7 @@
 ### Joe Biden
 - [How many points will Joe Biden have in the 2020 Endorsement Primary on April 15, 2019?](https://2020project.github.io/dem2020primary/538biden) 
 ### Beto O'Rourke
-- [How many points will Beto O'Rourke have in the 2020 Endorsement Primary?](https://2020project.github.io/dem2020primary/538orourke) 
+- [How many points will Beto O'Rourke have in the 2020 Endorsement Primary on April 15, 2019?](https://2020project.github.io/dem2020primary/538orourke) 
 
 
 ## Coming Soon
