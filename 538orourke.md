@@ -1,4 +1,4 @@
-# How many points will Beto O'Rourke have in the 2020 Endorsement Primary? 
+# How many points will Beto O'Rourke have in the 2020 Endorsement Primary on April 15, 2019? 
 
 _This market is currently in draft form. Feedback and comments would be greatly appreciated._
 
