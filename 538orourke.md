@@ -25,9 +25,10 @@ In the event that the 2020 endorsement tracker or the FiveThirtyEight.com websit
 
 ## History
 
-| Date of Update        |    Time    | O'Rourke Points           | Total Candidate Points  |
-| ------------- |:-------------:| :-------------:| :-----:|
-| March 17, 2019      |  5:45 PM    | 12 | 251 |
+| Date of Update |   Time   | O'Rourke Points | Total Candidate Points |
+|:--------------:|:--------:|:---------------:|:----------------------:|
+| March 17, 2019 |  5:45 PM |        12       |           251          |
+| March 26, 2019 | 10:35 AM |        14       |           254          |
 
 
 ----------
