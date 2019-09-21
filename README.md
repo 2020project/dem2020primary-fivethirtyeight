@@ -6,27 +6,28 @@ _Sign up [here](http://bit.ly/2020projectsignup) for updates._
 
 ## Endorsement Tracker Data
 
-| Endorsee               | Apr. 23, 2019 | Mar. 18, 2019 |
-|------------------------|:-------------:|:-------------:|
-| Cory Booker            |       57      |       55      |
-| Kamala Harris          |       55      |       55      |
-| Amy Klobuchar          |       44      |       44      |
-| Joe Biden              |       29      |       18      |
-| Bernie Sanders         |       22      |       20      |
-| Elizabeth Warren       |       18      |       17      |
-| Beto O'Rourke          |       14      |       12      |
-| Julian Castro          |       12      |       12      |
-| Pete Buttigieg         |       8       |               |
-| John Delaney           |       6       |       6       |
-| Jay Inslee             |       5       |       5       |
-| John Hickenlooper      |       3       |       3       |
-| Kirsten Gillibrand     |       3       |       3       |
-| Eric Swalwell          |       3       |               |
-| Michael Bloomberg      |       1       |       1       |
-|                        |               |               |
-| **TOTAL POINTS ALLOCATED** |      **280**      |      **251**      |
-| **TOTAL POINTS AVAILABLE** |      **2343**     |      **2338**     |
-| **POINTS REMAINING**       |      **2063**     |      **2087**     |
+|  **Endorsee** | **21 Sep 2019** | **23 Apr 2019** | **18 Mar 2019** |
+| --- | --- | --- | --- |
+|  Cory Booker | 59 | 57 | 55 |
+|  Kamala Harris | 92 | 55 | 55 |
+|  Amy Klobuchar | 42 | 44 | 44 |
+|  Joe Biden | 127 | 29 | 18 |
+|  Bernie Sanders | 36 | 22 | 20 |
+|  Elizabeth Warren | 48 | 18 | 17 |
+|  Beto O'Rourke | 19 | 14 | 12 |
+|  Julian Castro | 10 | 12 | 12 |
+|  Pete Buttigieg | 19 | 8 |  |
+|  John Delaney | 6 | 6 | 6 |
+|  ~~Jay Inslee~~ | ~~11~~ | ~~5~~ | ~~5~~ |
+|  ~~John Hickenlooper~~ | ~~3~~ | ~~3~~ | ~~3~~ |
+|  Kirsten Gillibrand |  | 3 | 3 |
+|  Eric Swalwell | 3 | 3 |  |
+|  ~~Michael Bloomberg~~ | ~~~~ | ~~1~~ | ~~1~~ |
+|  Steve Bullock | 9 |  |  |
+|   |  |  |  |
+|  **TOTAL POINTS ALLOCATED** | 484 | 280 | 251 |
+|  **TOTAL POINTS AVAILABLE** | 2256 | 2343 | 2338 |
+|  **POINTS REMAINING** | 1772 | 2063 | 2087 |
 
 ------
 ## Markets:
